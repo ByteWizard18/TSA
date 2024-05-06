@@ -4,7 +4,7 @@
 # Twitter Sentiment Analysis
 
 ## Overview
-This project performs sentiment analysis on Twitter data, categorizing tweets into three sentiments: neutral, happy, and sad. It utilizes a dataset sourced from Kaggle containing random tweets.
+This project performs sentiment analysis on Twitter data, categorizing tweets into four sentiments: neutral, happy, irrelevant and negative. It utilizes a dataset sourced from Kaggle containing random tweets.
 
 ## Live Demo
 [Live project is here](https://twittersentimentalanalysis.streamlit.app/)
