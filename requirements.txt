@@ -1,0 +1,14 @@
+Python
+Flask
+NLTK
+Matplotlib
+preprocess_kgptalkie
+matplotlib
+seaborn
+wordcloud
+TfidfVectorizer
+RandomForestClassifier
+pipeline
+classification_report
+time
+-e .
